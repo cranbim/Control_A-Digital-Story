@@ -100,7 +100,7 @@ function loadAndShuffleContent(){
     fragPool.push({type: "FRAGMENT", fragment:fragment});
   });
   console.log(fragPool);
-  // fragPool=shuffleFrags(fragPool,fragmentOrder);
+  fragPool=shuffleFrags(fragPool,fragmentOrder);
   console.log(fragPool);
 }
 

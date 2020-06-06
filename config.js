@@ -73,7 +73,7 @@ var optionConfig={
 var creditConfig={
   params:{
     creditText:"Control. 2020. Built entirely using p5.js javascript framework. All code is original work by Dave Webb. All on-screen and spoken word copy is original work by Dave Webb. "
-      +"Video fragments filmed and edited by Dave Webb and Henry Webb. Music: BetterDays by bensound.com, original work Control (variations 1-3), by Isabel Webb. "
+      +"Video fragments filmed and edited by Dave Webb and Henry Webb. Music: BetterDays by bensound.com, original music 'Control ONE' and 'Control TWO' (variations 1-3), by Isabel Webb. "
       +"Dave Webb, Isabel Webb and Henry Webb assert their rights to be identified as the creators and copyright holders for their respective original works. "
       +"Created for Digital Storytelling module, MSc Creative Computing at Bath Spa University" 
   }
@@ -291,6 +291,9 @@ var playerConfig=[
         {
           media: "assets/ControlSymbols SQ false.mp4",
           type: "video"
+        },{
+          media: "assets/controlONEversion2.wav",
+          type: "audio"
         }
       ]
     }
@@ -300,6 +303,9 @@ var playerConfig=[
         {
           media: "assets/MSc DS HomeControls SQ.mov",
           type: "video"
+        },{
+          media: "assets/controlTWOversion2.wav",
+          type: "audio"
         }
       ]
     }
