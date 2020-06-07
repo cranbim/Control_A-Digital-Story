@@ -130,7 +130,7 @@ function audReady(){
 
 function resetFragments(){
   zones.forEach(function(zone){
-    zone.selected=false;
+    zone.resetSelected();
   });
 }
 

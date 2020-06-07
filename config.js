@@ -14,7 +14,7 @@ texts[0]="For a few years in the 00’s I worked as a lowly campsite steward at 
 
 texts[1]="In the 1988 John Carpenter film, They Live, a race of aliens have taken over the world and are controlling the human race through advertising, consumption, and societal behaviour. The humans that comply are rewarded with better lives. They are part of the club, while those who resist are punished and hunted. It’s a thin veil of sci-fi over a clear fable, warning about the likely destination of consumerism."
 +" // "
-+"I’m not really one for shopping. I like stuff, but I am satisfied with having enough, and I don’t enjoy the process of buying. Occasionally I have a They-Live moment and I look at advertising or some product promotion and I think:  Really? Does anyone fall for this?"
++"I’m not really one for shopping. I like stuff, but I am satisfied with having enough, and I don’t enjoy the process of buying. Occasionally I have a They-Live moment and I look at advertising or some product promotion and I think: Really? Does anyone fall for this?"
 +" // "
 +"Trying to choose a toothpaste (33 variations at the supermarket just for Colgate) can be a paralysing confrontation of choice. I know I am a slave to all the same psychological wiring as everyone else, and I am not immune to advertising, or product placement. Sometimes it saddens me just how easily we have our buttons pressed and how willingly we are shamed by some apparent inadequacy into seeking redemption through a product.";
 

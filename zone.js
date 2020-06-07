@@ -18,6 +18,12 @@ function Zone(x,y,w,h,dw, dh){
     this.finished=cb.finished;
   };
   
+  this.resetSelected=function(){
+    this.selected=false;
+    this.finished=false;
+    cb.finished=false;
+  };
+  
   this.click=function(){
     if(hover){
       if(!this.selected){
